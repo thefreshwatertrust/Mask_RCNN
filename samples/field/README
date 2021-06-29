@@ -1,3 +1,12 @@
 Irrigation type classification of GrandView.
 
-train/gv_75dpi_r1.tif is extremely low res just for demonstrating creating training data. Higher res images will be needed for actual training, but will not be added to the repo.
+Notes:
+
+- train/gv_75dpi_r1.tif is extremely low res just for demonstrating creating training data. Higher res images will be needed for actual training, but will not be added to the repo.
+
+- I was only able to get this to work with Python 3.5.
+
+- refer to ./requirements.txt (in this folder) for package versions
+
+
+
